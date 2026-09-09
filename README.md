@@ -7,9 +7,11 @@ Repositório de **dados** do directório [Solus Machina](https://solusmachina.ne
 
 ## Papel deste repositório
 
-O objectivo é reunir informação dispersa num directório simples, pesquisável e útil para cidadãos, jornalistas, investigadores e programadores. Curado para fontes oficiais e públicas, assim como projectos abertos de interesse público que utilizem fontes públicas e oficiais.
+O objectivo é reunir informação dispersa num directório simples, pesquisável e útil para cidadãos, jornalistas, investigadores e programadores. Curado para fontes oficiais e públicas, assim como projectos abertos de interesse público que utilizem fontes públicas e oficiais. 
+Também utiliza como fonte de dados: https://github.com/devpt-org/public-data-portugal
 
-Lista completa das fontes: [FONTES.md](FONTES.md)
+Lista completa das fontes:
+[FONTES.md](FONTES.md)
 
 ---
 
