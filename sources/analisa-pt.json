@@ -1,0 +1,11 @@
+{
+  "id": "analisa-pt",
+  "name": "Analisa.pt",
+  "url": "https://analisa.pt",
+  "description": "Plataforma que agrega indicadores públicos e contratos por município, com mapas e comparações da qualidade de vida em Portugal.",
+  "icon": "/icons/analisa-pt.svg",
+  "location": "portugal",
+  "tags": ["transparencia", "dados-abertos", "mapas", "contratos-publicos", "indicadores"],
+  "categories": ["dados", "servico"],
+  "active": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "geoapi-pt",
+  "name": "GEO API PT",
+  "url": "https://geoapi.pt",
+  "description": "API gratuita de dados geográficos de Portugal: regiões administrativas, códigos postais, censos, altimetria e geocodificação reversa.",
+  "icon": "/icons/geoapi-pt.svg",
+  "location": "portugal",
+  "tags": ["api", "mapas", "dados-abertos", "georreferenciacao", "geografia"],
+  "categories": ["api", "dados", "servico"],
+  "active": true
+}

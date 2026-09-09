@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Portal do Clima">
+  <rect width="64" height="64" rx="12" fill="#0e7490"/>
+  <circle cx="26" cy="26" r="10" fill="#fde68a"/>
+  <path fill="#e0f2fe" d="M22 34a10 10 0 0 0 0 20h18a8 8 0 0 0 2-15.7A12 12 0 0 0 22 34z"/>
+</svg>

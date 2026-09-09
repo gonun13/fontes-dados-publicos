@@ -1,0 +1,8 @@
+.DS_Store
+
+# Ferramentas de agentes de IA (locais, não pertencem ao repo)
+.claude/
+.cursor/
+.codex/
+.opencode/
+.aider*

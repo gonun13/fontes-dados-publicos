@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="openrouteservice">
+  <rect width="64" height="64" rx="12" fill="#065f46"/>
+  <path fill="none" stroke="#d1fae5" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 7" d="M14 44C22 30 26 22 32 22s10 14 18 8"/>
+  <circle cx="14" cy="44" r="4" fill="#d1fae5"/>
+  <circle cx="50" cy="30" r="4" fill="#d1fae5"/>
+</svg>

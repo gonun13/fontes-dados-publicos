@@ -1,0 +1,11 @@
+{
+  "id": "api-carrismetropolitana-pt",
+  "name": "Carris Metropolitana",
+  "url": "https://api.carrismetropolitana.pt/v2/",
+  "description": "Carris Metropolitana Schedules API",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["transportes"],
+  "categories": ["api"],
+  "active": true
+}

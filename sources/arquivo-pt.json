@@ -1,0 +1,11 @@
+{
+  "id": "arquivo-pt",
+  "name": "arquivo.pt",
+  "url": "https://arquivo.pt/",
+  "description": "Acesso a conteúdo histórico da Web",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "outros"],
+  "categories": ["dados"],
+  "active": true
+}

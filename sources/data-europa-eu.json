@@ -1,0 +1,11 @@
+{
+  "id": "data-europa-eu",
+  "name": "data.europa.eu",
+  "url": "https://data.europa.eu",
+  "description": "Portal oficial de dados abertos da União Europeia, agregando conjuntos de dados de instituições e países membros, incluindo Portugal.",
+  "icon": "/icons/data-europa-eu.svg",
+  "location": "europa",
+  "tags": ["dados-abertos", "transparencia", "gov", "catalogo", "uniao-europeia"],
+  "categories": ["dados"],
+  "active": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "fenixedu-org",
+  "name": "FenixEdu IST",
+  "url": "https://fenixedu.org/dev/api/",
+  "description": "Plataforma FenixEdu do Instituto Superior Técnico",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["educacao"],
+  "categories": ["api"],
+  "active": true
+}

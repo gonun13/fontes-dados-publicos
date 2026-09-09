@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Simula.pt">
+  <rect width="64" height="64" rx="12" fill="#0f766e"/>
+  <rect x="14" y="12" width="36" height="40" rx="4" fill="#99f6e4"/>
+  <rect x="18" y="16" width="28" height="10" rx="2" fill="#134e4a"/>
+  <rect x="18" y="30" width="8" height="6" rx="1" fill="#2dd4bf"/>
+  <rect x="28" y="30" width="8" height="6" rx="1" fill="#2dd4bf"/>
+  <rect x="38" y="30" width="8" height="6" rx="1" fill="#14b8a6"/>
+  <rect x="18" y="40" width="8" height="6" rx="1" fill="#2dd4bf"/>
+  <rect x="28" y="40" width="8" height="6" rx="1" fill="#2dd4bf"/>
+  <rect x="38" y="40" width="8" height="6" rx="1" fill="#0d9488"/>
+</svg>

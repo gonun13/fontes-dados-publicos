@@ -1,0 +1,11 @@
+{
+  "id": "pordata-pt",
+  "name": "PORDATA",
+  "url": "https://www.pordata.pt",
+  "description": "Base de dados de estatísticas oficiais sobre Portugal e a Europa, com séries históricas, mapas e comparações entre municípios.",
+  "icon": "/icons/pordata-pt.svg",
+  "location": "portugal",
+  "tags": ["estatisticas", "dados-abertos", "indicadores", "mapas"],
+  "categories": ["dados"],
+  "active": true
+}

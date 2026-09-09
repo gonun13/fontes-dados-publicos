@@ -1,0 +1,11 @@
+{
+  "id": "transparencia-sns-gov-pt",
+  "name": "Transparência SNS v2",
+  "url": "https://transparencia.sns.gov.pt/api-console/explore/v2.1/",
+  "description": "Versão 2 da API de Dados Abertos do SNS",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["saude"],
+  "categories": ["api"],
+  "active": true
+}

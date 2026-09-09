@@ -1,0 +1,11 @@
+{
+  "id": "dadosabertos-cm-agueda-pt",
+  "name": "Águeda Aberta",
+  "url": "https://dadosabertos.cm-agueda.pt/dataset?_res_format_limit=0",
+  "description": "Portal de dados abertos de Águeda",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "governo"],
+  "categories": ["dados"],
+  "active": true
+}

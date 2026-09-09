@@ -1,0 +1,11 @@
+{
+  "id": "vies-ec-europa-eu",
+  "name": "VIES — Validação de NIF/IVA",
+  "url": "https://ec.europa.eu/taxation_customs/vies/",
+  "description": "Serviço oficial da Comissão Europeia para validação de números de IVA (NIF) de entidades registadas, devolvendo nome e morada. Inclui API REST aberta com cobertura de Portugal.",
+  "icon": "/icons/source-generic.svg",
+  "location": "europa",
+  "tags": ["api", "dados-abertos", "administracao-publica", "gov", "uniao-europeia"],
+  "categories": ["api", "servico"],
+  "active": true
+}

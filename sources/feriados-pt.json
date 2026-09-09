@@ -1,0 +1,11 @@
+{
+  "id": "feriados-pt",
+  "name": "Feriados Portugueses",
+  "url": "https://services.sapo.pt/Metadata/Contract/Holiday?culture=PT",
+  "description": "Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["outros"],
+  "categories": ["api"],
+  "active": true
+}

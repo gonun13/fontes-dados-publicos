@@ -1,0 +1,11 @@
+{
+  "id": "services-arcgis-com",
+  "name": "ArcGis",
+  "url": "https://services.arcgis.com/CCZiGSEQbAxxFVh3/ArcGIS/rest/services",
+  "description": "Repositório Arcgis do Estado Português, inclui dados COVID-19, incêndios, combustível, entre outros",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["outros"],
+  "categories": ["api"],
+  "active": true
+}

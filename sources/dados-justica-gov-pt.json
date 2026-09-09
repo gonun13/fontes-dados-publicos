@@ -1,0 +1,11 @@
+{
+  "id": "dados-justica-gov-pt",
+  "name": "Dados Justiça",
+  "url": "https://dados.justica.gov.pt",
+  "description": "Portal de estatísticas e dados abertos do Ministério da Justiça sobre tribunais, processos judiciais e sistema de justiça em Portugal.",
+  "icon": "/icons/dados-justica-gov-pt.svg",
+  "location": "portugal",
+  "tags": ["justica", "dados-abertos", "estatisticas", "administracao-publica", "gov"],
+  "categories": ["dados"],
+  "active": true
+}

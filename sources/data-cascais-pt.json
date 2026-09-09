@@ -1,0 +1,11 @@
+{
+  "id": "data-cascais-pt",
+  "name": "Cascais Data",
+  "url": "https://data.cascais.pt/geral/dados/dados-abertos",
+  "description": "Portal de dados abertos de Cascais",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "governo"],
+  "categories": ["dados"],
+  "active": true
+}

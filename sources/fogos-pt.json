@@ -1,0 +1,11 @@
+{
+  "id": "fogos-pt",
+  "name": "Fogos.pt",
+  "url": "https://fogos.pt",
+  "description": "Monitorização e informação sobre incêndios florestais em Portugal.",
+  "icon": "/icons/fogos-pt.svg",
+  "location": "portugal",
+  "tags": ["emergencia", "mapas", "dados-abertos", "ambiente"],
+  "categories": ["api", "dados", "servico"],
+  "active": true
+}

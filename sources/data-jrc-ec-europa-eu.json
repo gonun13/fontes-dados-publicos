@@ -1,0 +1,11 @@
+{
+  "id": "data-jrc-ec-europa-eu",
+  "name": "JRC Data Catalogue",
+  "url": "https://data.jrc.ec.europa.eu/dataset?q=portugal",
+  "description": "Catálogo de dados da União Europeia sobre Portugal",
+  "icon": "/icons/source-generic.svg",
+  "location": "europa",
+  "tags": ["dados-abertos", "governo"],
+  "categories": ["dados"],
+  "active": true
+}

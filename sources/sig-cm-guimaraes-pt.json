@@ -1,0 +1,11 @@
+{
+  "id": "sig-cm-guimaraes-pt",
+  "name": "Dados Abertos de Guimarães",
+  "url": "https://sig.cm-guimaraes.pt/dadosabertos/#one",
+  "description": "Portal de dados abertos de Guimarães",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "governo"],
+  "categories": ["dados"],
+  "active": true
+}

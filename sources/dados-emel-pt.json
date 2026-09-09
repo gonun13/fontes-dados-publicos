@@ -1,0 +1,11 @@
+{
+  "id": "dados-emel-pt",
+  "name": "EMEL",
+  "url": "https://dados.emel.pt/dataset/",
+  "description": "Dados abertos da EMEL",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "transportes"],
+  "categories": ["dados"],
+  "active": true
+}

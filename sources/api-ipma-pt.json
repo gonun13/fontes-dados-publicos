@@ -1,0 +1,11 @@
+{
+  "id": "api-ipma-pt",
+  "name": "IPMA",
+  "url": "https://api.ipma.pt/",
+  "description": "Dados meteorológicos e oceanográficos",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["meteorologia"],
+  "categories": ["api"],
+  "active": true
+}

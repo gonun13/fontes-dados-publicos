@@ -1,0 +1,11 @@
+{
+  "id": "bpstat-bportugal-pt",
+  "name": "Banco de Portugal",
+  "url": "https://bpstat.bportugal.pt/data/docs",
+  "description": "Acesso aberto a estatísticas e metadados do portal de estatística do Banco de Portugal",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["banking"],
+  "categories": ["api"],
+  "active": true
+}

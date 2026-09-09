@@ -1,0 +1,11 @@
+{
+  "id": "lisboaaberta-cm-lisboa-pt",
+  "name": "Lisboa Aberta",
+  "url": "https://lisboaaberta.cm-lisboa.pt/index.php/pt/",
+  "description": "Dados abertos de Lisboa",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "governo"],
+  "categories": ["dados"],
+  "active": true
+}

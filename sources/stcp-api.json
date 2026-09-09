@@ -1,0 +1,11 @@
+{
+  "id": "stcp-api",
+  "name": "Sociedade de Transportes Colectivos do Porto",
+  "url": "https://github.com/sgtpepperpt/stcp-api",
+  "description": "Dados sobre a rede da STCP e passagem de autocarros em tempo real",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["transportes"],
+  "categories": ["api"],
+  "active": true
+}

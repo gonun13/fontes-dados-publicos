@@ -1,0 +1,11 @@
+{
+  "id": "cidade15minutos",
+  "name": "Cidade 15 Minutos",
+  "url": "https://cidade15minutos.solusmachina.net",
+  "description": "Exploração da cidade dos 15 minutos e proximidade urbana em Portugal.",
+  "icon": "/icons/cidade15minutos.svg",
+  "location": "portugal",
+  "tags": ["urbanismo", "mapas", "mobilidade", "solusmachina"],
+  "categories": ["servico"],
+  "active": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "geodados-cml-hub-arcgis-com",
+  "name": "Lisboa GeoDados",
+  "url": "https://geodados-cml.hub.arcgis.com/",
+  "description": "Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "governo"],
+  "categories": ["dados"],
+  "active": true
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fonte sem icone proprio">
+  <rect width="64" height="64" rx="12" fill="#0c1524"/>
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="11.25" fill="none" stroke="#7a8699" stroke-opacity="0.55" stroke-width="1.5"/>
+  <circle cx="32" cy="32" r="4.5" fill="#e8c472"/>
+  <circle cx="17" cy="19" r="3" fill="#9aa5b5"/>
+  <circle cx="47" cy="19" r="3" fill="#9aa5b5"/>
+  <circle cx="17" cy="45" r="3" fill="#9aa5b5"/>
+  <circle cx="47" cy="45" r="3" fill="#9aa5b5"/>
+  <path fill="none" stroke="#9aa5b5" stroke-width="2" stroke-linecap="round" d="M19.4 21.4 28.6 28.6M44.6 21.4 35.4 28.6M19.4 42.6 28.6 35.4M44.6 42.6 35.4 35.4"/>
+</svg>

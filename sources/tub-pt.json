@@ -1,0 +1,11 @@
+{
+  "id": "tub-pt",
+  "name": "Transportes Urbanos de Braga",
+  "url": "https://tub.pt/downloads/",
+  "description": "Portal de dados da TUB (Transportes Urbanos de Braga)",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "transportes"],
+  "categories": ["dados"],
+  "active": true
+}

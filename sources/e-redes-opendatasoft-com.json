@@ -1,0 +1,11 @@
+{
+  "id": "e-redes-opendatasoft-com",
+  "name": "e-redes",
+  "url": "https://e-redes.opendatasoft.com/pages/homepage/",
+  "description": "Repositório de dados abertos sobre a empresa portuguesa e-redes (setor elétrico).",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "outros"],
+  "categories": ["dados"],
+  "active": true
+}

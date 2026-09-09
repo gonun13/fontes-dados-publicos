@@ -1,0 +1,11 @@
+{
+  "id": "base-gov-pt",
+  "name": "Portal BASE",
+  "url": "https://www.base.gov.pt",
+  "description": "Portal oficial que centraliza a informação sobre os contratos públicos celebrados em Portugal continental e regiões autónomas.",
+  "icon": "/icons/base-gov-pt.svg",
+  "location": "portugal",
+  "tags": ["contratos-publicos", "transparencia", "dados-abertos", "administracao-publica", "gov"],
+  "categories": ["api", "dados", "servico"],
+  "active": true
+}

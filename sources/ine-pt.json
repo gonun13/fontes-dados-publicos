@@ -1,0 +1,11 @@
+{
+  "id": "ine-pt",
+  "name": "INE",
+  "url": "https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api_v2&xlang=PT",
+  "description": "Base de dados de difusão do INE",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["governo"],
+  "categories": ["api"],
+  "active": true
+}

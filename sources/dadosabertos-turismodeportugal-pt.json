@@ -1,0 +1,11 @@
+{
+  "id": "dadosabertos-turismodeportugal-pt",
+  "name": "Turismo de Portugal",
+  "url": "https://dadosabertos.turismodeportugal.pt/",
+  "description": "Dados sobre informação turística",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "governo"],
+  "categories": ["dados"],
+  "active": true
+}

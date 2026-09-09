@@ -1,0 +1,11 @@
+{
+  "id": "api-metrolisboa-pt",
+  "name": "Metro de Lisboa",
+  "url": "https://api.metrolisboa.pt/store/apis/info?name=EstadoServicoML&version=1.0.1&provider=admin",
+  "description": "Conjunto de APIs disponibilizadas pelo ML",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["transportes"],
+  "categories": ["api"],
+  "active": true
+}

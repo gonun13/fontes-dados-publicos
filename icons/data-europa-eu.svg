@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="data.europa.eu">
+  <rect width="64" height="64" rx="12" fill="#1e3a8a"/>
+  <circle cx="32" cy="32" r="16" fill="none" stroke="#fde68a" stroke-width="2.5"/>
+  <g fill="#fde68a">
+    <circle cx="32" cy="18" r="1.6"/>
+    <circle cx="41.9" cy="22.1" r="1.6"/>
+    <circle cx="46" cy="32" r="1.6"/>
+    <circle cx="41.9" cy="41.9" r="1.6"/>
+    <circle cx="32" cy="46" r="1.6"/>
+    <circle cx="22.1" cy="41.9" r="1.6"/>
+    <circle cx="18" cy="32" r="1.6"/>
+    <circle cx="22.1" cy="22.1" r="1.6"/>
+  </g>
+</svg>

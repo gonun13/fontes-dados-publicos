@@ -1,0 +1,11 @@
+{
+  "id": "openstreetmap-org",
+  "name": "OpenStreetMap",
+  "url": "https://www.openstreetmap.org",
+  "description": "Mapa mundial livre e editável, construído de forma colaborativa, com cobertura detalhada de Portugal e da Europa.",
+  "icon": "/icons/openstreetmap-org.svg",
+  "location": "europa",
+  "tags": ["mapas", "dados-abertos", "georreferenciacao", "comunidade"],
+  "categories": ["dados", "servico"],
+  "active": true
+}

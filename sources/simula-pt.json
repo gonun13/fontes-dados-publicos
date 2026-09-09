@@ -1,0 +1,11 @@
+{
+  "id": "simula-pt",
+  "name": "Simula.pt",
+  "url": "https://simula.pt",
+  "description": "Simuladores online gratuitos para decisões financeiras em Portugal: IRS, salário líquido, crédito habitação, apoios e mais, com valores oficiais atualizados.",
+  "icon": "/icons/simula-pt.svg",
+  "location": "portugal",
+  "tags": ["simuladores", "impostos", "financas", "calculadoras"],
+  "categories": ["servico"],
+  "active": true
+}

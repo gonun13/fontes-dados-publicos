@@ -1,0 +1,11 @@
+{
+  "id": "opendata-bnportugal-gov-pt",
+  "name": "Biblioteca Nacional de Portugal",
+  "url": "https://opendata.bnportugal.gov.pt/",
+  "description": "Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "educacao"],
+  "categories": ["dados"],
+  "active": true
+}

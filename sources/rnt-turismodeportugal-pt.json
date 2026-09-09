@@ -1,0 +1,11 @@
+{
+  "id": "rnt-turismodeportugal-pt",
+  "name": "RNT - Consulta ao Registo",
+  "url": "https://rnt.turismodeportugal.pt/",
+  "description": "Informação dos empreendimentos e empresas do turismo, agentes de animação turística e agências de viagens e turismo",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "governo"],
+  "categories": ["dados"],
+  "active": true
+}

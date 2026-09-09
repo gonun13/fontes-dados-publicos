@@ -1,0 +1,11 @@
+{
+  "id": "openrouteservice-org",
+  "name": "openrouteservice",
+  "url": "https://openrouteservice.org",
+  "description": "API aberta de cálculo de rotas, distâncias e isócronas baseada em dados do OpenStreetMap, com cobertura europeia e global.",
+  "icon": "/icons/openrouteservice-org.svg",
+  "location": "europa",
+  "tags": ["api", "mapas", "mobilidade", "dados-abertos", "georreferenciacao"],
+  "categories": ["api", "servico"],
+  "active": true
+}

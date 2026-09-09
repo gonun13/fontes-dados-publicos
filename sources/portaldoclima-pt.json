@@ -1,0 +1,11 @@
+{
+  "id": "portaldoclima-pt",
+  "name": "Portal do Clima",
+  "url": "http://portaldoclima.pt",
+  "description": "Portal oficial com projeções climáticas, indicadores e informação sobre alterações climáticas e adaptação em Portugal.",
+  "icon": "/icons/portaldoclima-pt.svg",
+  "location": "portugal",
+  "tags": ["clima", "ambiente", "dados-abertos", "indicadores", "gov"],
+  "categories": ["dados"],
+  "active": true
+}

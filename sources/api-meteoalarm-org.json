@@ -1,0 +1,11 @@
+{
+  "id": "api-meteoalarm-org",
+  "name": "MeteoAlarm",
+  "url": "https://api.meteoalarm.org/edr/v1",
+  "description": "Alertas meteorológicos para toda a Europa",
+  "icon": "/icons/source-generic.svg",
+  "location": "europa",
+  "tags": ["meteorologia"],
+  "categories": ["api"],
+  "active": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "dados-gov-pt",
+  "name": "dados.gov.pt",
+  "url": "https://dados.gov.pt",
+  "description": "Portal oficial de dados abertos do Estado português, com catálogo de conjuntos de dados publicados por entidades públicas.",
+  "icon": "/icons/dados-gov-pt.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "transparencia", "administracao-publica", "gov", "catalogo"],
+  "categories": ["dados"],
+  "active": true
+}

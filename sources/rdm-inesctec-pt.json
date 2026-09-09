@@ -1,0 +1,11 @@
+{
+  "id": "rdm-inesctec-pt",
+  "name": "INESCTEC",
+  "url": "https://rdm.inesctec.pt/dataset?_res_format_limit=0",
+  "description": "Dados produzidos ou usados pelos investigadores do INESCTEC",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "educacao"],
+  "categories": ["dados"],
+  "active": true
+}
