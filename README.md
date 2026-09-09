@@ -1,4 +1,4 @@
-# Solus Machina — Dados
+# Fontes de Dados Abertos
 
 Repositório de **dados** do directório [Solus Machina](https://solusmachina.net): as **fontes**
 (serviços, APIs, portais e projectos digitais públicos) e os respectivos **ícones**.
@@ -8,6 +8,8 @@ Repositório de **dados** do directório [Solus Machina](https://solusmachina.ne
 ## Papel deste repositório
 
 O objectivo é reunir informação dispersa num directório simples, pesquisável e útil para cidadãos, jornalistas, investigadores e programadores. Curado para fontes oficiais e públicas, assim como projectos abertos de interesse público que utilizem fontes públicas e oficiais.
+
+Lista completa das fontes: [FONTES.md](FONTES.md)
 
 ---
 
@@ -19,8 +21,6 @@ O objectivo é reunir informação dispersa num directório simples, pesquisáve
 | `sources/` | Uma fonte por ficheiro. O nome do ficheiro é o `id` mais `.json`. |
 | `icons/` | Um ícone por fonte, com o nome do `id` e em SVG. |
 
-Lista completa das fontes: [FONTES.md](FONTES.md).
-
 ---
 
 ## Contrato de uma fonte
@@ -30,14 +30,14 @@ ficheiro (sem `.json`) e ser um slug em `kebab-case`.
 
 ```json
 {
-  "id": "fogos-pt",
-  "name": "Fogos.pt",
-  "url": "https://fogos.pt",
-  "description": "Monitorização e informação sobre incêndios florestais em Portugal.",
-  "icon": "/icons/fogos-pt.svg",
+  "id": "dados-gov-pt",
+  "name": "dados.gov.pt",
+  "url": "https://dados.gov.pt",
+  "description": "Portal oficial de dados abertos do Estado português, com catálogo de conjuntos de dados publicados por entidades públicas.",
+  "icon": "/icons/dados-gov-pt.svg",
   "location": "portugal",
-  "tags": ["emergencia", "mapas", "dados-abertos", "ambiente"],
-  "categories": ["api", "dados", "servico"],
+  "tags": ["dados-abertos", "transparencia", "administracao-publica", "gov", "catalogo"],
+  "categories": ["dados"],
   "active": true
 }
 ```
