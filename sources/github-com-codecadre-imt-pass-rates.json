@@ -1,0 +1,11 @@
+{
+  "id": "github-com-codecadre-imt-pass-rates",
+  "name": "IMT - Taxas de aprovação escolas de condução",
+  "url": "https://github.com/codecadre/imt-pass-rates",
+  "description": "Jupiter notebook com as [taxas de aprovação do IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/taxasdeaprovacao/Paginas/TaxasdeAprovacao.aspx)",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "portugal"],
+  "categories": ["dados"],
+  "active": true
+}

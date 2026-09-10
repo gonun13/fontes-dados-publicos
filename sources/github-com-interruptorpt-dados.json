@@ -1,0 +1,11 @@
+{
+  "id": "github-com-interruptorpt-dados",
+  "name": "Interruptor",
+  "url": "https://github.com/InterruptorPt/dados",
+  "description": "Vários conjuntos de dados sobre cultura portuguesa (obras no Plano Nacional de Leitura, fonogramas editados, equipamentos culturais, cartazes de festivais, etc.)",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "portugal"],
+  "categories": ["dados"],
+  "active": true
+}

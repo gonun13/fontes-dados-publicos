@@ -1,0 +1,11 @@
+{
+  "id": "jurisprudencia-pt",
+  "name": "jurisprudência.pt",
+  "url": "https://jurisprudencia.pt/",
+  "description": "Pesquisa de Jurisprudência",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "portugal"],
+  "categories": ["dados"],
+  "active": true
+}

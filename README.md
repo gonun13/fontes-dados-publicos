@@ -1,29 +1,39 @@
 # Fontes de Dados Abertos
 
-Repositório de **dados** do directório [Solus Machina](https://solusmachina.net): as **fontes**
-(serviços, APIs, portais e projectos digitais públicos) e os respectivos **ícones**.
+Repositório de fontes de dados públicos e abertos, APIs e projectos digitais de interesse público.  
+
+O objectivo é reunir informação dispersa num directório simples, pesquisável e útil para cidadãos, jornalistas, investigadores e programadores. Curado para fontes oficiais e públicas, assim como projectos abertos de interesse público que utilizem fontes públicas e oficiais.   
 
 ---
 
-## Papel deste repositório
+## Recursos
 
-O objectivo é reunir informação dispersa num directório simples, pesquisável e útil para cidadãos, jornalistas, investigadores e programadores. Curado para fontes oficiais e públicas, assim como projectos abertos de interesse público que utilizem fontes públicas e oficiais. 
-Também utiliza como fonte de dados: https://github.com/devpt-org/public-data-portugal
+**Informação pesquisávei em:** [Solus Machina](https://solusmachina.net)
+
+Outros repositórios e directórios utilizados  
+[https://github.com/devpt-org/public-data-portugal](https://github.com/devpt-org/public-data-portugal)  
+[https://github.com/rgllm/awesome-portugal-data](https://github.com/rgllm/awesome-portugal-data)  
+
 
 Lista completa das fontes:
 [FONTES.md](FONTES.md)
 
 ---
 
+
+
 ## Estrutura
 
 
-| Pasta | Conteúdo |
-| --- | --- |
+| Pasta      | Conteúdo                                                          |
+| ---------- | ----------------------------------------------------------------- |
 | `sources/` | Uma fonte por ficheiro. O nome do ficheiro é o `id` mais `.json`. |
-| `icons/` | Um ícone por fonte, com o nome do `id` e em SVG. |
+| `icons/`   | Um ícone por fonte, com o nome do `id` e em SVG.                  |
+
 
 ---
+
+
 
 ## Contrato de uma fonte
 
@@ -44,46 +54,53 @@ ficheiro (sem `.json`) e ser um slug em `kebab-case`.
 }
 ```
 
-| Campo | Obrigatório | Regras |
-| --- | --- | --- |
-| `id` | sim | Único; slug `kebab-case`; igual ao nome do ficheiro. |
-| `name` | sim | Nome público da fonte. |
-| `url` | sim | URL canónica; começa por `http://` ou `https://` (HTTPS preferível). |
-| `description` | sim | Curta e factual (1–2 frases). |
-| `icon` | sim | Caminho público em `/icons/`; o ficheiro tem de existir em `icons/`. |
-| `location` | sim | `portugal` ou `europa`. |
-| `tags` | sim | Array de slugs `kebab-case`, sem acentos (`emergencia`, não `emergência`). |
-| `categories` | sim | Array não vazio e sem repetições, de `api`, `dados`, `servico`. |
-| `active` | não | Default `true`. Com `false`, a fonte é ignorada na listagem. |
+
+| Campo         | Obrigatório | Regras                                                                     |
+| ------------- | ----------- | -------------------------------------------------------------------------- |
+| `id`          | sim         | Único; slug `kebab-case`; igual ao nome do ficheiro.                       |
+| `name`        | sim         | Nome público da fonte.                                                     |
+| `url`         | sim         | URL canónica; começa por `http://` ou `https://` (HTTPS preferível).       |
+| `description` | sim         | Curta e factual (1–2 frases).                                              |
+| `icon`        | sim         | Caminho público em `/icons/`; o ficheiro tem de existir em `icons/`.       |
+| `location`    | sim         | `portugal` ou `europa`.                                                    |
+| `tags`        | sim         | Array de slugs `kebab-case`, sem acentos (`emergencia`, não `emergência`). |
+| `categories`  | sim         | Array não vazio e sem repetições, de `api`, `dados`, `servico`.            |
+| `active`      | não         | Default `true`. Com `false`, a fonte é ignorada na listagem.               |
 
 
 ---
+
+
 
 ## Regras dos ícones
 
 - Um ficheiro por fonte, com o nome do `id`: `icons/<id>.svg`.
 - **O SVG tem de ser estático.**.
 - `icons/source-generic.svg` é o ícone genérico das fontes que ainda não têm identidade
-  visual própria. Não o remover.
+visual própria. Não o remover.
 
 ---
+
+
 
 ## Como contribuir
 
 1. Faz fork do projecto.
 2. Cria uma branch para a tua adição:
-   ```bash
+  ```bash
    git checkout -b add/nome-da-fonte
-   ```
+  ```
 3. Faz commit das tuas alterações:
-   ```bash
+  ```bash
    git commit -am 'feat: adiciona fonte nome-da-fonte'
-   ```
+  ```
 4. Faz push da tua branch:
-   ```bash
+  ```bash
    git push origin add/nome-da-fonte
-   ```
+  ```
 5. Cria um novo Pull Request.
+
+
 
 ### Acrescentar ou corrigir uma fonte
 
@@ -95,17 +112,18 @@ falha por o ícone não corresponder ao ficheiro.
 
 ---
 
+
+
 ## Convenções
 
-- Commits: Conventional Commits (`feat:`, `fix:`, `docs:`, …)
 - Branch principal: `main`
 - Tags e `id` em `kebab-case` sem acentos
 - Texto em português europeu
 
 ---
 
+
+
 ## Critérios de inclusão
 
-Fontes devem ser serviços ou projectos digitais **públicos** (ou de interesse público)
-com presença online, relevantes para Portugal ou para a Europa — oficiais, civis,
-académicos ou comunitários. Preferir fontes estáveis e URLs canónicas.
+Fontes devem ser serviços ou projectos digitais **públicos** (ou de interesse público) com presença online, relevantes para Portugal ou para a Europa — oficiais, civis, académicos ou comunitários. Preferir fontes estáveis e URLs canónicas.

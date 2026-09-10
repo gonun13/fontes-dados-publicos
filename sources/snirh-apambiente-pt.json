@@ -1,0 +1,11 @@
+{
+  "id": "snirh-apambiente-pt",
+  "name": "SNIRH",
+  "url": "https://snirh.apambiente.pt",
+  "description": "Dados do Sistema Nacional de Informação de Recursos Hidricos",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "portugal"],
+  "categories": ["dados"],
+  "active": true
+}

@@ -1,11 +1,11 @@
 {
-  "id": "opendata-porto-digital",
+  "id": "dadosabertos-cm-porto-pt",
   "name": "Dados Abertos do Porto",
-  "url": "https://opendata.porto.digital/dataset/",
+  "url": "http://dadosabertos.cm-porto.pt/",
   "description": "Portal de dados abertos do Porto",
   "icon": "/icons/source-generic.svg",
   "location": "portugal",
-  "tags": ["dados-abertos", "governo"],
+  "tags": ["dados-abertos", "norte"],
   "categories": ["dados"],
   "active": true
 }

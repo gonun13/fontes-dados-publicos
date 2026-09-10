@@ -1,0 +1,11 @@
+{
+  "id": "parlamento-pt",
+  "name": "Dados Abertos do Parlamento",
+  "url": "https://www.parlamento.pt/Cidadania/Paginas/DadosAbertos.aspx",
+  "description": "Dados abertos relativos à atividade parlamentar.",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["portugal"],
+  "categories": ["api"],
+  "active": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "developers-epo-org",
+  "name": "Open Patent System",
+  "url": "https://developers.epo.org/",
+  "description": "Portal de patentes europeias",
+  "icon": "/icons/source-generic.svg",
+  "location": "europa",
+  "tags": ["europa"],
+  "categories": ["api"],
+  "active": true
+}

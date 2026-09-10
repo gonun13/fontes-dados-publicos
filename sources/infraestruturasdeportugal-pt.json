@@ -1,0 +1,11 @@
+{
+  "id": "infraestruturasdeportugal-pt",
+  "name": "Infraestruturas de Portugal",
+  "url": "http://www.infraestruturasdeportugal.pt/negocios-e-servicos/horarios/",
+  "description": "Horários e estado de circulação dos comboios",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "portugal"],
+  "categories": ["dados"],
+  "active": true
+}

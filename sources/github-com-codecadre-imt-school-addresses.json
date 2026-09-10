@@ -1,0 +1,11 @@
+{
+  "id": "github-com-codecadre-imt-school-addresses",
+  "name": "IMT - Morada das escolas de condução",
+  "url": "https://github.com/codecadre/imt-school-addresses",
+  "description": "Moradas e licenças das escolas de condução - [dados IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx)",
+  "icon": "/icons/source-generic.svg",
+  "location": "portugal",
+  "tags": ["dados-abertos", "portugal"],
+  "categories": ["dados"],
+  "active": true
+}
