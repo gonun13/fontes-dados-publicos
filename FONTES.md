@@ -12,7 +12,7 @@ Catálogo das fontes definidas em `sources/`.
 | [Carris Metropolitana](https://api.carrismetropolitana.pt/v2/) | Carris Metropolitana Schedules API | ✓ |  |  |
 | [Cascais Data](https://data.cascais.pt/geral/dados/dados-abertos) | Portal de dados abertos de Cascais |  | ✓ |  |
 | [Cidade 15 Minutos](https://cidade15minutos.solusmachina.net) | Exploração da cidade dos 15 minutos e proximidade urbana em Portugal. |  |  | ✓ |
-| [Comboios de Portugal](https://api.cp.pt/cp-api/) | API pública da CP [![](https://img.shields.io/badge/Client-Javascript-orange)](https://github.com/juliuste/comboios) | ✓ |  |  |
+| [Comboios de Portugal](https://api.cp.pt/cp-api/) | API pública da CP. | ✓ |  |  |
 | [Dados Abertos de Guimarães](https://sig.cm-guimaraes.pt/dadosabertos/#one) | Portal de dados abertos de Guimarães |  | ✓ |  |
 | [Dados Abertos do Parlamento](https://www.parlamento.pt/Cidadania/Paginas/DadosAbertos.aspx) | Dados abertos relativos à atividade parlamentar. | ✓ |  |  |
 | [Dados Abertos do Porto](http://dadosabertos.cm-porto.pt/) | Portal de dados abertos do Porto |  | ✓ |  |
@@ -26,8 +26,8 @@ Catálogo das fontes definidas em `sources/`.
 | [Feriados Portugueses](https://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) | Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299 | ✓ |  |  |
 | [Fogos.pt](https://fogos.pt) | Monitorização e informação sobre incêndios florestais em Portugal. | ✓ | ✓ | ✓ |
 | [GEO API PT](https://geoapi.pt) | API gratuita de dados geográficos de Portugal: regiões administrativas, códigos postais, censos, altimetria e geocodificação reversa. | ✓ | ✓ | ✓ |
-| [IMT - Morada das escolas de condução](https://github.com/codecadre/imt-school-addresses) | Moradas e licenças das escolas de condução - [dados IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/LocalizacaoEscolasConducao/Paginas/LocalizacaoEscolasConducao.aspx) |  | ✓ |  |
-| [IMT - Taxas de aprovação escolas de condução](https://github.com/codecadre/imt-pass-rates) | Jupiter notebook com as [taxas de aprovação do IMT](https://www.imt-ip.pt/sites/IMTT/Portugues/EnsinoConducao/taxasdeaprovacao/Paginas/TaxasdeAprovacao.aspx) |  | ✓ |  |
+| [IMT - Morada das escolas de condução](https://github.com/codecadre/imt-school-addresses) | Moradas e licenças das escolas de condução, a partir de dados do IMT. |  | ✓ |  |
+| [IMT - Taxas de aprovação escolas de condução](https://github.com/codecadre/imt-pass-rates) | Jupyter notebook com as taxas de aprovação das escolas de condução do IMT. |  | ✓ |  |
 | [INE](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api_v2&xlang=PT) | Base de dados de difusão do INE | ✓ |  |  |
 | [INESCTEC](https://rdm.inesctec.pt/dataset?_res_format_limit=0) | Dados produzidos ou usados pelos investigadores do INESCTEC |  | ✓ |  |
 | [Infraestruturas de Portugal](http://www.infraestruturasdeportugal.pt/negocios-e-servicos/horarios/) | Horários e estado de circulação dos comboios |  | ✓ |  |

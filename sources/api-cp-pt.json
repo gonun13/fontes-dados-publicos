@@ -2,7 +2,7 @@
   "id": "api-cp-pt",
   "name": "Comboios de Portugal",
   "url": "https://api.cp.pt/cp-api/",
-  "description": "API pública da CP [![](https://img.shields.io/badge/Client-Javascript-orange)](https://github.com/juliuste/comboios)",
+  "description": "API pública da CP.",
   "icon": "/icons/source-generic.svg",
   "location": "portugal",
   "tags": ["portugal"],
